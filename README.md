@@ -5,6 +5,7 @@
 - 📫 How to reach me, via linkedin
 - 😄 Pronouns: his
 - ⚡ Fun fact: ...
+- 🧑 Working in Worqhat as intern 
 
 <!---
 Rajat-Rathaur/Rajat-Rathaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
