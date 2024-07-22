@@ -6,6 +6,7 @@
 - 😄 Pronouns: his
 - ⚡ Fun fact: ...
 - 🧑 Worked in Worqhat as intern for 4 months
+- 🧑‍💼 Currently Working as intern at credence analytics
 
 <!---
 Rajat-Rathaur/Rajat-Rathaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
